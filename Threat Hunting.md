@@ -16,3 +16,5 @@ based forensics is key to compliment your network knowledge.
 
  <h1>Network Architecture.</h1> An understanding of different network devices and how they 
 operate within the environment
+
+source - https://www.threathunting.net/files/huntpedia.pdf
